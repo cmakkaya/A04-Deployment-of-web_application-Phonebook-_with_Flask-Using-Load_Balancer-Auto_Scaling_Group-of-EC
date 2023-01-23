@@ -115,13 +115,13 @@ thousand                         Warning -> 'Invalid input: Phone number should 
 ```text
 004-phonebook-web-application (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
-|----cfn-template.yml   # To be delivered by students (Cloudformation template)
-|----app.py            # Given to the students (Python Flask Web Application)
+|----readme.md         # Given to the DevOps staff (Definition of the project)
+|----cfn-template.yml   # To be delivered by DevOps staff (Cloudformation template)
+|----app.py            # Given to the DevOps staff (Python Flask Web Application)
 |----templates
-        |----index.html      # Given to the students (HTML template)
-        |----add-update.html # Given to the students (HTML template)
-        |----delete.html     # Given to the students (HTML template)
+        |----index.html      # Given to the DevOps staff (HTML template)
+        |----add-update.html # Given to the DevOps staff (HTML template)
+        |----delete.html     # Given to the DevOps staff (HTML template)
 ```
 
 ## Expected Outcome
@@ -160,7 +160,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
 
 - Git & Github for Version Control System
 
-### At the end of the project, students will be able to;
+### At the end of the project, DevOps staff will be able to;
 
 
 - configure connection to the `MySQL` database.
